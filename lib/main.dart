@@ -77,7 +77,7 @@ class MyApp extends StatelessWidget {
                   // ),
                   title: Text(
                     'sinjanthu@gmail.com',
-                    style: TextStyle(color: Colors.teal, fontSize: 18.0),
+                    style: TextStyle(color: Colors.teal, fontSize: 19.0),
                   ),
                 ),
               ),
